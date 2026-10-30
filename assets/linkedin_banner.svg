@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1584 396" width="100%" height="396">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="liBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="45%" stop-color="#0b1329" />
+      <stop offset="100%" stop-color="#070c18" />
+    </linearGradient>
+
+    <!-- Neon Glow Gradient -->
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" />
+      <stop offset="50%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glowEffect" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect x="0" y="0" width="1584" height="396" fill="url(#liBg)" />
+
+  <!-- Ambient Light Orbs -->
+  <circle cx="1250" cy="80" r="220" fill="#00f0ff" opacity="0.08" filter="url(#glowEffect)" />
+  <circle cx="450" cy="300" r="180" fill="#818cf8" opacity="0.06" filter="url(#glowEffect)" />
+
+  <!-- Grid Pattern Overlay -->
+  <g stroke="rgba(255, 255, 255, 0.03)" stroke-width="1.2">
+    <line x1="0" y1="66" x2="1584" y2="66" />
+    <line x1="0" y1="132" x2="1584" y2="132" />
+    <line x1="0" y1="198" x2="1584" y2="198" />
+    <line x1="0" y1="264" x2="1584" y2="264" />
+    <line x1="0" y1="330" x2="1584" y2="330" />
+    <line x1="396" y1="0" x2="396" y2="396" />
+    <line x1="792" y1="0" x2="792" y2="396" />
+    <line x1="1188" y1="0" x2="1188" y2="396" />
+  </g>
+
+  <!-- Geometric Circuit Accents -->
+  <path d="M 1150 50 L 1350 50 L 1420 120 L 1584 120" stroke="rgba(0, 240, 255, 0.25)" stroke-width="2" fill="none" />
+  <circle cx="1420" cy="120" r="4" fill="#00f0ff" />
+  <path d="M 1200 340 L 1380 340 L 1440 280 L 1584 280" stroke="rgba(129, 140, 248, 0.25)" stroke-width="2" fill="none" />
+  <circle cx="1440" cy="280" r="4" fill="#818cf8" />
+
+  <!-- Right-Aligned Content (Leaving space on the left for Profile Picture) -->
+  <g transform="translate(420, 0)">
+    <!-- Status Pill -->
+    <g transform="translate(0, 75)">
+      <rect x="0" y="0" width="310" height="32" rx="16" fill="rgba(0, 240, 255, 0.08)" stroke="rgba(0, 240, 255, 0.3)" stroke-width="1.2" />
+      <circle cx="18" cy="16" r="5" fill="#00f0ff" />
+      <text x="34" y="21" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">BALZAI AUTONOMOUS SYSTEMS</text>
+    </g>
+
+    <!-- Main Headline -->
+    <text x="0" y="165" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="46" font-weight="800" letter-spacing="-0.5">
+      Building the Next-Gen AI &amp; Cloud Systems
+    </text>
+
+    <!-- Subtitle / Value Proposition -->
+    <text x="0" y="210" fill="url(#cyanGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="700" letter-spacing="0.5">
+      Autonomous Multi-Agent Platforms · Microsoft GraphRAG · High-Availability Microservices
+    </text>
+
+    <!-- Tech Stack Pill Row -->
+    <text x="0" y="255" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="500">
+      Next.js 15 · FastAPI · Neo4j Graph DB · PM2 Zero-Downtime · Clean Architecture · DevSecOps
+    </text>
+
+    <!-- University & Location Tag -->
+    <g transform="translate(0, 290)">
+      <text x="0" y="20" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" letter-spacing="1">
+        🇪🇨 UNIVERSIDAD DE CUENCA · FOUNDER &amp; TECH LEAD
+      </text>
+    </g>
+  </g>
+</svg>
