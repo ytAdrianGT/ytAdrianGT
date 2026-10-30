@@ -1,89 +1,113 @@
-
 <div align="center">
 
-# ¡Hola, soy Christian Muñoz! 👋
-### ⚡ Founder & Tech Lead @ [BalzAI](https://github.com/ytAdrianGT/BalzAI)
-**Ingeniero de Software · Arquitecturas Agénticas de IA · Sistemas Distribuidos**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ytAdrianGT)
-[![Portfolio](https://img.shields.io/badge/BalzAI_Web-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://github.com/ytAdrianGT/BalzAI)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,30&height=220&section=header&text=Christian%20Muñoz&fontSize=44&fontAlignY=38&desc=Founder%20%26%20Tech%20Lead%20@%20BalzAI%20%7C%20Autonomous%20AI%20%26%20Systems%20Architect&descAlignY=60&descAlign=50" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+autonomous+multi-agent+systems;Engineering+GraphRAG+architectures+with+Neo4j;High-performance+microservices+with+FastAPI+%26+Next.js;Zero-Downtime+deployments+with+PM2" alt="Typing SVG" />
+<a href="https://github.com/ytAdrianGT">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=19&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+autonomous+agentic+platforms;Engineering+GraphRAG+architectures+with+Neo4j;Deploying+zero-downtime+microservices+with+PM2;Fullstack+engineering+with+FastAPI+%26+Next.js+15" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="https://github.com/ytAdrianGT/BalzAI"><img src="https://img.shields.io/badge/BalzAI_Ecosystem-0f172a?style=for-the-badge&logo=probot&logoColor=38bdf8" /></a>
+  <a href="https://github.com/ytAdrianGT/Startup-BalzAI"><img src="https://img.shields.io/badge/Startup_Production-0f172a?style=for-the-badge&logo=serverfault&logoColor=10b981" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0077b5" /></a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 Sobre Mí & Visión
+### 🍱 Engineering Bento Grid
 
-- 🎓 Graduado / Estudiante de Ingeniería en la **Universidad de Cuenca, Ecuador**.
-- 💡 Fundador y Líder Técnico de **BalzAI**: plataforma integral de desarrollo acelerado asistido por inteligencia artificial, memoria de grafo relacional a largo plazo y orquestación multi-modelo.
-- 🛠️ Especialista en diseño de microservicios transaccionales (FastAPI, Next.js 15), ciberseguridad defensiva (OWASP Top 10) y automatización DevSecOps.
-- 🎯 Obsesionado con el rendimiento, el tipado estricto (TypeScript, Pydantic) y la arquitectura de software limpia (*Clean Architecture & Domain-Driven Design*).
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>⚡ Perfil & Liderazgo Técnico</h3>
+      <p>
+        <b>Fundador y Líder Técnico</b> del ecosistema <b>BalzAI</b> (Universidad de Cuenca). Diseñador de arquitecturas orientadas a <b>orquestación multi-agente</b>, retención de memoria de grafo a largo plazo (<b>GraphRAG</b>) y plataformas distribuidas con alta disponibilidad.
+      </p>
+      <ul>
+        <li>🎓 <b>Alma Mater:</b> Universidad de Cuenca, Ecuador 🇪🇨</li>
+        <li>🧠 <b>Enfoque:</b> Inteligencia Artificial Agéntica, Modelos Autónomos y Reducción de Contexto (&gt;98%).</li>
+        <li>🛡️ <b>Estándares:</b> Clean Architecture, DDD, Ciberseguridad OWASP Top 10 y Tipado Estricto.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <h3>📊 Métricas de Sistema</h3>
+      <ul>
+        <li>🚀 <b>Uptime:</b> 99.99% en Servidores de Producción</li>
+        <li>🔄 <b>Despliegue:</b> Zero-Downtime Reload con PM2</li>
+        <li>⚡ <b>Eficiencia:</b> &gt;98.5% Ahorro de Tokens en LLMs</li>
+        <li>📦 <b>Microservicios:</b> 4 Puertos Aislados (:3200, :3000, :8000, :3300)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ⚡ Proyectos Destacados
+### 🚀 Ecosistema de Plataformas & Proyectos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://github.com/ytAdrianGT/BalzAI">BalzAI Platform</a></h4>
+      <p>Plataforma agéntica con memoria GraphRAG persistente en Neo4j y Parquet, soporte Fan-Out concurrente y reducción masiva de tokens de contexto.</p>
+      <p><code>Next.js 15</code> · <code>FastAPI</code> · <code>Neo4j 5.26</code> · <code>Microsoft GraphRAG</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏢 <a href="https://github.com/ytAdrianGT/Startup-BalzAI">Startup BalzAI (Producción)</a></h4>
+      <p>Monorepo de despliegue en servidor real con balanceo de carga, procesos independientes gestionados por PM2 y recargas en caliente sin cortes.</p>
+      <p><code>PM2 Cluster</code> · <code>Microservicios</code> · <code>Zero-Downtime</code> · <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚗 <a href="https://github.com/ytAdrianGT/Startup-BalzAI">FlashPark IoT</a></h4>
+      <p>Ecosistema de estacionamientos inteligentes con telemetría en tiempo real, mapa interactivo Leaflet y backend FastAPI con ingesta de sensores.</p>
+      <p><code>React 19</code> · <code>Vite</code> · <code>FastAPI</code> · <code>Leaflet Maps</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏥 <a href="https://github.com/ytAdrianGT/Startup-BalzAI">Dermatología Clínica</a></h4>
+      <p>Plataforma médica de gestión de citas, historias de pacientes y control estricto de inventario con transacciones ACID e integridad de datos.</p>
+      <p><code>Next.js 15</code> · <code>App Router</code> · <code>SQLite</code> · <code>RBAC</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ Arsenal Tecnológico
 
 <div align="center">
 
-| Proyecto | Tecnologías | Rol & Descripción |
-| :--- | :--- | :--- |
-| **[BalzAI Platform](https://github.com/ytAdrianGT/BalzAI)** | `Next.js 15` · `FastAPI` · `Neo4j` · `GraphRAG` | Orquestador multi-agente concurrente con retención de memoria de grafo (>98% ahorro de tokens). |
-| **[Startup-BalzAI](https://github.com/ytAdrianGT/Startup-BalzAI)** | `PM2 Cluster` · `Monorepo` · `Docker` | Hub central de producción con despliegue quirúrgico y recarga en caliente (*Zero-Downtime*). |
-| **FlashPark IoT** | `FastAPI` · `React 19` · `Leaflet` · `SQLite` | Sistema inteligente de estacionamientos con sensores IoT, reserva de plazas y analítica en tiempo real. |
-| **Dermatología** | `Next.js 15` · `TypeScript` · `ACID Transactions` | Ecosistema clínico de agendamiento médico, auditoría RBAC y control de insumos dermatológicos. |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,py,fastapi,postgres,docker,git,linux,postman,figma&theme=dark" />
+</p>
 
 </div>
 
 ---
 
-## 🛠️ Stack Tecnológico
+### 📈 Rendimiento & Actividad Global
 
 <div align="center">
 
-### 🌐 Frontend & Experiencia Visual
-![Next.js](https://img.shields.io/badge/Next.js%2015-black?style=flat-square&logo=next.js&logoColor=white)
-![React 19](https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-### ⚙️ Backend & Sistemas Distribuidos
-![Python](https://img.shields.io/badge/Python%203.11+-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-
-### 🧠 Inteligencia Artificial & Grafos
-![Neo4j](https://img.shields.io/badge/Neo4j%205-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white)
-![GraphRAG](https://img.shields.io/badge/Microsoft_GraphRAG-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_3.5/Opus-D97706?style=flat-square&logo=anthropic&logoColor=white)
-
-### 🗄️ Persistencia & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📈 GitHub Metrics & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ytAdrianGT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ytAdrianGT&theme=tokyonight&hide_border=true" width="48%" />
+<table border="0" style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;" align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ytAdrianGT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=00F0FF&text_color=94A3B8" width="100%" />
+    </td>
+    <td style="border: none;" align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytAdrianGT&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=38BDF8&currStreakLabel=00F0FF&sideLabels=94A3B8&dates=94A3B8" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytAdrianGT&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytAdrianGT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="60%" />
 
 </div>
 
@@ -91,9 +115,12 @@
 
 <div align="center">
 
-*"Construyendo el futuro de la ingeniería de software con arquitecturas autónomas y agentes inteligentes."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,30&height=100&section=footer" width="100%" />
 
-© 2026 **Christian Muñoz** · BalzAI Inc.
+<p>
+  <i>"Diseñando arquitecturas autónomas de software para resolver problemas de escala global."</i>
+</p>
+
+© 2026 **Christian Muñoz** · Founder & Tech Lead · BalzAI Inc.
 
 </div>
-```
