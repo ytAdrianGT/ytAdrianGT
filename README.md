@@ -1,14 +1,4 @@
-# 🌟 GitHub Profile README Template (ytAdrianGT)
 
-> **Instrucciones de uso:**
-> Para activar este diseño en la portada de tu perfil de GitHub:
-> 1. Ve a GitHub y crea un nuevo repositorio público con el mismo nombre que tu usuario: **`ytAdrianGT`**.
-> 2. Marca la casilla *"Add a README file"*.
-> 3. Pega el contenido que aparece a continuación dentro de ese `README.md` y guarda los cambios.
-
----
-
-```markdown
 <div align="center">
 
 # ¡Hola, soy Christian Muñoz! 👋
