@@ -21,7 +21,7 @@
 
 ### 🌟 Trayectoria de Vida, Resiliencia & Visión
 
-> *"Cada etapa de mi vida —desde el rigor técnico de la Mecatrónica y la exigencia de trabajar bajo alta presión en EE.UU., hasta la coordinación de equipos en entornos de alto ritmo— me enseñó que la verdadera ingeniería nace de la constancia, la adaptabilidad y el hambre de superación. Hoy estoy 100% enfocado en el desarrollo de software y arquitecturas de Inteligencia Artificial, convencido de que la vida está llena de oportunidades para quienes no temen salir de su zona de confort y dar siempre la milla extra."*
+> *"Cada etapa de mi vida —desde el rigor técnico de la Mecatrónica y la optimización de procesos en ETAPA EP, pasando por la exigencia extrema de trabajar en cocinas de EE.UU. a ritmo vertiginoso, hasta la investigación científica en la Universidad de Cuenca— me enseñó que no hay límites cuando eres un loco apasionado por aprender y hacer de todo. Hoy estoy 100% volcado en el desarrollo de software y arquitecturas de Inteligencia Artificial, convencido de que la vida está repleta de oportunidades para quienes tienen el coraje de asumir cualquier desafío y dar siempre la milla extra."*
 > 
 > — **Christian Adrián Muñoz Solís**
 
@@ -31,26 +31,29 @@
 
 <table>
   <tr>
-    <td width="55%" valign="top">
-      <h4>🎯 Perfil &amp; Liderazgo Técnico</h4>
+    <td width="52%" valign="top">
+      <h4>🎯 Perfil, Investigación &amp; Liderazgo</h4>
       <p>
-        <b>Christian Adrián Muñoz Solís</b> — Founder &amp; Tech Lead de <b>BalzAI</b>. Estudiante de <b>Ingeniería en Ciencias de la Computación</b> en la Universidad de Cuenca con excelencia académica, y Bachiller Técnico en <b>Mecatrónica Industrial</b> (Abanderado del Pabellón Nacional, GPA 9.6/10).
+        <b>Christian Adrián Muñoz Solís</b> — Founder &amp; Tech Lead de <b>BalzAI</b> y <b>Ayudante de Investigación</b> en la <b>Universidad de Cuenca</b>. Mente polifacética con una curiosidad insaciable por aprender, resolver y construir sin miedo a ensuciarse las manos en cualquier área.
       </p>
       <ul>
-        <li>🎓 <b>Educación Superior:</b> Universidad de Cuenca (2022 - 2027)</li>
-        <li>🏅 <b>Distinción:</b> Abanderado del Pabellón Nacional (GPA 9.6/10.0)</li>
-        <li>🌎 <b>Idiomas:</b> Español (Nativo) · Inglés (B1 Conversacional &amp; Técnico)</li>
-        <li>🚴 <b>Disciplinas &amp; Hobbies:</b> Gym &amp; Fitness, Ciclismo, Lectura, Dibujo y Natación</li>
+        <li>🔬 <b>I+D:</b> Ayudante de Investigación en Ciencias de la Computación (UCuenca)</li>
+        <li>🎓 <b>Educación:</b> Ingeniería en Ciencias de la Computación (2022 - 2027)</li>
+        <li>🏅 <b>Distinción:</b> Abanderado del Pabellón Nacional (GPA 9.6/10 · Mecatrónica)</li>
+        <li>🔥 <b>Filosofía:</b> Loco por aprender de todo, ejecutar con pasión y superar límites</li>
+        <li>🚴 <b>Disciplinas:</b> Gym &amp; Fitness, Ciclismo, Lectura, Dibujo y Natación</li>
       </ul>
     </td>
-    <td width="45%" valign="top">
-      <h4>🌎 Experiencia &amp; Forja Operativa</h4>
+    <td width="48%" valign="top">
+      <h4>🌎 Experiencia Laboral &amp; Forja Operativa</h4>
       <p>
-        Inmersión laboral internacional y local en entornos de alta exigencia, velocidad y trabajo bajo presión que moldearon mi resiliencia:
+        Trayectoria multidisciplinaria que combina ingeniería de procesos, investigación académica e inmersión operativa de alta exigencia:
       </p>
       <ul>
-        <li>🇺🇸 <b>EE.UU. (Myrtle Beach, SC):</b> Prep Cook &amp; Line Cook en <i>Margaritaville</i>, <i>Extreme Pizza</i> y <i>Rioz Steakhouse</i>. Adaptación a ritmo acelerado y entorno 100% en inglés.</li>
-        <li>🇪🇨 <b>Ecuador:</b> Personal de cocina en <i>McDonald's</i> (Parque de la Madre), logística y transporte en <i>Uncometro S.A.</i> y <i>25 de Julio S.A.</i></li>
+        <li>🔬 <b>Universidad de Cuenca:</b> Ayudante de Investigación (Ciencias de la Computación).</li>
+        <li>🏛️ <b>ETAPA EP:</b> Creador y Diseñador de Procesos (3 meses) — Modelado, estandarización y optimización de flujos operativos institucionales.</li>
+        <li>🇺🇸 <b>EE.UU. (Myrtle Beach, SC):</b> Inmersión laboral en <i>Margaritaville</i>, <i>Extreme Pizza</i> y <i>Rioz Steakhouse</i>. Trabajo bajo presión extrema y entorno 100% en inglés.</li>
+        <li>🇪🇨 <b>Operaciones &amp; Logística:</b> Personal en <i>McDonald's</i> (Parque de la Madre), coordinación en <i>Uncometro S.A.</i> y <i>25 de Julio S.A.</i></li>
       </ul>
     </td>
   </tr>
