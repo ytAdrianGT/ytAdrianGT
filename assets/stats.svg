@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 260" width="100%" height="260">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="statsBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="50%" stop-color="#0b1329" />
+      <stop offset="100%" stop-color="#080f1d" />
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(0, 240, 255, 0.4)" />
+      <stop offset="50%" stop-color="rgba(129, 140, 248, 0.5)" />
+      <stop offset="100%" stop-color="rgba(0, 240, 255, 0.2)" />
+    </linearGradient>
+
+    <!-- Cyan Bar Gradient -->
+    <linearGradient id="cyanBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+
+    <!-- Indigo Bar Gradient -->
+    <linearGradient id="indigoBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+
+    <!-- Emerald Bar Gradient -->
+    <linearGradient id="emeraldBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+
+    <!-- Amber Bar Gradient -->
+    <linearGradient id="amberBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#fbbf24" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="5" y="5" width="940" height="250" rx="14" fill="url(#statsBg)" stroke="url(#borderGrad)" stroke-width="1.2" />
+
+  <!-- Divider Line -->
+  <line x1="475" y1="20" x2="475" y2="240" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
+
+  <!-- LEFT PANEL: Engineering & Platform Telemetry -->
+  <g transform="translate(35, 30)">
+    <text x="0" y="16" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">● PLATFORM TELEMETRY &amp; STATS</text>
+
+    <!-- Metric Item 1 -->
+    <g transform="translate(0, 45)">
+      <text x="0" y="0" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13">Production Uptime</text>
+      <text x="390" y="0" fill="#10b981" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" text-anchor="end">99.99% (PM2 Zero-Downtime)</text>
+    </g>
+
+    <!-- Metric Item 2 -->
+    <g transform="translate(0, 85)">
+      <text x="0" y="0" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13">GraphRAG Token Optimization</text>
+      <text x="390" y="0" fill="#00f0ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" text-anchor="end">&gt; 98.5% Economy</text>
+    </g>
+
+    <!-- Metric Item 3 -->
+    <g transform="translate(0, 125)">
+      <text x="0" y="0" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13">Dedicated Microservices</text>
+      <text x="390" y="0" fill="#c7d2fe" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" text-anchor="end">4 Services (:3200, :3000, :8000, :3300)</text>
+    </g>
+
+    <!-- Metric Item 4 -->
+    <g transform="translate(0, 165)">
+      <text x="0" y="0" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13">Cybersecurity Hardening</text>
+      <text x="390" y="0" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" text-anchor="end">OWASP Top 10 · PBKDF2-SHA512</text>
+    </g>
+  </g>
+
+  <!-- RIGHT PANEL: Technology Stack Distribution -->
+  <g transform="translate(515, 30)">
+    <text x="0" y="16" fill="#818cf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">● CORE STACK BREAKDOWN</text>
+
+    <!-- Tech 1: TypeScript / Next.js / React -->
+    <g transform="translate(0, 45)">
+      <text x="0" y="0" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">TypeScript &amp; React 19 / Next.js 15</text>
+      <text x="395" y="0" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" text-anchor="end">50%</text>
+      <rect x="0" y="8" width="395" height="6" rx="3" fill="rgba(255, 255, 255, 0.08)" />
+      <rect x="0" y="8" width="197" height="6" rx="3" fill="url(#cyanBar)" />
+    </g>
+
+    <!-- Tech 2: Python / FastAPI -->
+    <g transform="translate(0, 85)">
+      <text x="0" y="0" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">Python 3.11+ &amp; FastAPI (REST / IoT)</text>
+      <text x="395" y="0" fill="#818cf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" text-anchor="end">30%</text>
+      <rect x="0" y="8" width="395" height="6" rx="3" fill="rgba(255, 255, 255, 0.08)" />
+      <rect x="0" y="8" width="118" height="6" rx="3" fill="url(#indigoBar)" />
+    </g>
+
+    <!-- Tech 3: Neo4j / GraphRAG / Databases -->
+    <g transform="translate(0, 125)">
+      <text x="0" y="0" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">Neo4j Graph Database &amp; GraphRAG</text>
+      <text x="395" y="0" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" text-anchor="end">12%</text>
+      <rect x="0" y="8" width="395" height="6" rx="3" fill="rgba(255, 255, 255, 0.08)" />
+      <rect x="0" y="8" width="47" height="6" rx="3" fill="url(#emeraldBar)" />
+    </g>
+
+    <!-- Tech 4: Docker / Linux / PM2 DevOps -->
+    <g transform="translate(0, 165)">
+      <text x="0" y="0" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">Docker, Linux &amp; PM2 Infrastructure</text>
+      <text x="395" y="0" fill="#fbbf24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" text-anchor="end">8%</text>
+      <rect x="0" y="8" width="395" height="6" rx="3" fill="rgba(255, 255, 255, 0.08)" />
+      <rect x="0" y="8" width="31" height="6" rx="3" fill="url(#amberBar)" />
+    </g>
+  </g>
+</svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Christian Muñoz Header" width="100%" />
+<img src="https://raw.githubusercontent.com/ytAdrianGT/ytAdrianGT/main/assets/header.svg" alt="Christian Muñoz — Founder &amp; Tech Lead" width="100%" />
 
 <br/>
 
@@ -114,15 +114,11 @@
 
 ---
 
-### 📊 Telemetría de Actividad & GitHub Stats
+### 📊 Telemetría de Arquitectura & Métricas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ytAdrianGT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050811&title_color=38BDF8&icon_color=00F0FF&text_color=94A3B8" width="55%" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytAdrianGT&layout=compact&theme=tokyonight&hide_border=true&bg_color=050811&title_color=38BDF8&text_color=94A3B8" width="55%" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/ytAdrianGT/ytAdrianGT/main/assets/stats.svg" alt="Platform Telemetry &amp; Core Stack" width="100%" />
 
 </div>
 
@@ -130,6 +126,6 @@
 
 <div align="center">
 
-<img src="./assets/footer.svg" alt="Footer" width="100%" />
+<img src="https://raw.githubusercontent.com/ytAdrianGT/ytAdrianGT/main/assets/footer.svg" alt="Footer" width="100%" />
 
 </div>
