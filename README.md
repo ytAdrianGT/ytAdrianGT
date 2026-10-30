@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-  <a href="mailto:christian.munoz5@ucuenca.edu.ec"><img src="https://img.shields.io/badge/Email-christian.munoz5%40ucuenca.edu.ec-0b1329?style=for-the-badge&logo=gmail&logoColor=ea4335" /></a>
+  <a href="mailto:christian.munoz5@ucuenca.edu.ec"><img src="https://img.shields.io/badge/Contact-Institutional_Email-0b1329?style=for-the-badge&logo=minutemailer&logoColor=38bdf8" /></a>
   <a href="https://wa.me/593986512431"><img src="https://img.shields.io/badge/WhatsApp-%2B593_98_651_2431-0b1329?style=for-the-badge&logo=whatsapp&logoColor=25d366" /></a>
   <a href="https://github.com/ytAdrianGT/BalzAI"><img src="https://img.shields.io/badge/BalzAI_Platform-0b1329?style=for-the-badge&logo=probot&logoColor=38bdf8" /></a>
   <a href="https://github.com/ytAdrianGT/Startup-BalzAI"><img src="https://img.shields.io/badge/Production_Hub-0b1329?style=for-the-badge&logo=serverfault&logoColor=10b981" /></a>
